@@ -1,0 +1,14 @@
+* Please select a pizza:
+1: Margherita
+2: Pepperoni
+3: Meat Lovers
+4: Veggie
+5: Supreme
+* and select a sauce:
+11: Olive
+12: Mushroom
+13: Cheese
+14: Meat
+15: Garlic
+16: Corn
+* Thanks!
